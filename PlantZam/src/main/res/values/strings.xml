@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >PlantZam
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="title_section1" >LED
+    </string>
+    <string name="title_section2" >FAN\u0026WATER
+    </string>
+    <string name="title_section3" >
+    </string>
+
+</resources>
